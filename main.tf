@@ -11,5 +11,5 @@ terraform {
 }
 
 output "myoutput" {
-  value = "This run has been triggered testinggggggg from root directory (/)"
+  value = "This run has been triggered check checking from root directory (/)"
 }
